@@ -1,0 +1,3 @@
+from printing_models1 import show_completed_models as pm
+
+show_completed_models(completed_models)
